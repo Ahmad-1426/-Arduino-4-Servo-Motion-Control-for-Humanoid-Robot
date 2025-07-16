@@ -109,7 +109,7 @@ void loop() {
 
 ## 📷 Preview
 in tinkercad:
-![Super Tumelo-Maimu](https://github.com/user-attachments/assets/829185bf-e4ed-4f3e-bf8d-ef7448e1ba80)
+<img width="1536" height="640" alt="4servo" src="https://github.com/user-attachments/assets/3cdc395c-92ac-40d5-a60e-be5d940a48c4" />
 
 In reality:
 pic:  ![4servo pic](https://github.com/user-attachments/assets/fd40f897-354f-4b4d-bb0e-3274da60658d)
