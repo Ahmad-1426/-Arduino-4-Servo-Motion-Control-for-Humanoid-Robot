@@ -1,6 +1,6 @@
 
 # 🤖 Arduino 4-Servo Motion Control for Humanoid Robot
-![Uploading photo of the cirucit.png…]()
+![Uploading 4servo.png…]()
 
 ## 📋 Description
 This project demonstrates how to control four servo motors on a humanoid robot using Arduino. The program performs the following sequence:
